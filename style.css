@@ -1,0 +1,42 @@
+html {
+  text-align: center;
+}
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  font-size: 60px;
+  color: cornflowerblue;
+  padding-top: 40px;
+}
+
+p {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.btn {
+  text-align: center;
+  font-size: 40px;
+  justify-content: center;
+  background-color: lime;
+}
+
+.counter {
+  padding: 10px;
+  font-size: 350%;
+}
+
+.grid {
+  display: grid;
+ 
+  grid-template-columns: 150px 150px 150px;
+  grid-template-rows: 150px 150px 150px;
+  justify-content: center;
+  padding-bottom: 150px;
+}
+
